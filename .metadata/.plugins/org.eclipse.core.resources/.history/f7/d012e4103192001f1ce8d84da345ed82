@@ -18,6 +18,5 @@ public class SumOfAllDigit {
 			total += currNum;
 		}
 		System.out.println(total);
-		System.out.println(total);
 	}
 }
